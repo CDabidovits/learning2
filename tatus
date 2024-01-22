@@ -1,0 +1,28 @@
+[1mdiff --git a/Lesson13.html b/Lesson13.html[m
+[1mindex a0964dd..454795a 100644[m
+[1m--- a/Lesson13.html[m
+[1m+++ b/Lesson13.html[m
+[36m@@ -7,13 +7,15 @@[m
+ </head>[m
+ <body>[m
+     <h1>This is a header</h1>[m
+[31m-    <ul><li></li>[m
+[31m-    <li></li>[m
+[31m-    <li></li>[m
+[31m-    <li></li>[m
+[31m-    <li></li>[m
+[31m-    <li></li>[m
+[31m-    <li></li></ul>[m
+[32m+[m[32m    <ul>[m
+[32m+[m[32m        <li>Sample 1</li>[m
+[32m+[m[32m        <li>Sample 2</li>[m
+[32m+[m[32m        <li>Sample 3</li>[m
+[32m+[m[32m        <li>Sample 4</li>[m
+[32m+[m[32m        <li>Sample 5</li>[m
+[32m+[m[32m        <li>Sample 6</li>[m
+[32m+[m[32m        <li>Sample 7</li>[m
+[32m+[m[32m    </ul>[m
+     [m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
